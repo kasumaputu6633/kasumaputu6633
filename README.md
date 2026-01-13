@@ -1,15 +1,13 @@
-<h1 align="center">Hi, I'm Ananda 👋</h1>
+## Hello there 👋 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="22px">
 
-<p align="center">
-  <em>Web Developer & Software Engineer</em><br>
-  <em>Junior–Intermediate Level</em>
-</p>
+I'm **Ananda**, a Web Developer & Software Engineer.  
+Junior–Intermediate level, focused on building clean, practical, and maintainable systems.
 
 ---
 
 ### 👨‍💻 About Me
-I’m a web developer and software engineer focused on building practical, clean, and functional applications.  
-Currently strengthening my skills toward more scalable and well-structured systems.
+I work on web and software projects with an emphasis on clarity, efficiency, and real-world usability.  
+Currently improving my skills toward scalable architectures and better system design.
 
 ---
 
@@ -27,11 +25,11 @@ Currently strengthening my skills toward more scalable and well-structured syste
 ### 🔧 What I Work On
 - Web application development  
 - Frontend & backend integration  
-- API-based systems  
-- Continuous learning & code refinement
+- API-driven systems  
+- Continuous learning and code refinement  
 
 ---
 
 ### 📌 Notes
-I value clarity, efficiency, and maintainable code.  
+I value readable code, thoughtful structure, and long-term maintainability.  
 Always learning, always improving.
