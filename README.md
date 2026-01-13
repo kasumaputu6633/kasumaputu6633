@@ -1,24 +1,37 @@
-# Hi, I'm Ananda 👋
+<h1 align="center">Hi, I'm Ananda 👋</h1>
 
-Web Developer & Software Engineer (Intermediate – Junior level)
-
-## About Me
-Saya fokus di pengembangan web dan software. Terbiasa membangun aplikasi dari sisi frontend maupun backend, dengan pendekatan yang rapi dan fungsional.
-
-## Tech Stack
-- **Languages:**  
-  TypeScript, JavaScript, Python (basic), Go (basic), Lua  
-- **Web:**  
-  HTML, CSS, REST API  
-- **Other:**  
-  Git, CLI, dasar backend & frontend integration
-
-## What I Do
-- Web application development  
-- Backend & frontend integration  
-- Learning system design & performance optimization
-
-## Status
-Masih terus belajar dan meningkatkan skill ke level advanced 🚀
+<p align="center">
+  <em>Web Developer & Software Engineer</em><br>
+  <em>Junior–Intermediate Level</em>
+</p>
 
 ---
+
+### 👨‍💻 About Me
+I’m a web developer and software engineer focused on building practical, clean, and functional applications.  
+Currently strengthening my skills toward more scalable and well-structured systems.
+
+---
+
+### 🧠 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" />
+</p>
+
+---
+
+### 🔧 What I Work On
+- Web application development  
+- Frontend & backend integration  
+- API-based systems  
+- Continuous learning & code refinement
+
+---
+
+### 📌 Notes
+I value clarity, efficiency, and maintainable code.  
+Always learning, always improving.
