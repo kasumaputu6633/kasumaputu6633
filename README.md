@@ -1,15 +1,11 @@
-## Hello there 👋 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="22px">
+## Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="22px">
 
 I'm **Ananda**, a Web Developer & Software Engineer.  
 Junior–Intermediate level, focused on building clean, practical, and maintainable systems.
 
----
-
 ### 👨‍💻 About Me
 I work on web and software projects with an emphasis on clarity, efficiency, and real-world usability.  
 Currently improving my skills toward scalable architectures and better system design.
-
----
 
 ### 🧠 Tech Stack
 <p>
@@ -20,15 +16,11 @@ Currently improving my skills toward scalable architectures and better system de
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" />
 </p>
 
----
-
 ### 🔧 What I Work On
 - Web application development  
 - Frontend & backend integration  
 - API-driven systems  
 - Continuous learning and code refinement  
-
----
 
 ### 📌 Notes
 I value readable code, thoughtful structure, and long-term maintainability.  
