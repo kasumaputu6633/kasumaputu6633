@@ -24,4 +24,4 @@ Currently improving my skills toward scalable architectures and better system de
 
 ### 📌 Notes
 I value readable code, thoughtful structure, and long-term maintainability.  
-Always learning, always improving.
+Always learning, always improving.pp
